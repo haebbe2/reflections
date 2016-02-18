@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 - A hidden folder is created that holds the metadata used by GIT
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- In the staging area related files which should be commited together are grouped together.
