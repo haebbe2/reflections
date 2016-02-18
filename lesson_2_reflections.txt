@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+- A hidden folder is created that holds the metadata used by GIT
