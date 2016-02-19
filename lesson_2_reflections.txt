@@ -3,3 +3,12 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 - In the staging area related files which should be commited together are grouped together.
+
+How can you use the staging area to make sure you have one commit per logical change?
+- Move all files that are connected logically to the staging area and commit them at once.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- implementing large features; different versions of the program
+
+How do the diagrams help you visualize the branch structure?
+- It can be easily seen, who are the parents, and if there are unreachable commits und which changes are in which branch
