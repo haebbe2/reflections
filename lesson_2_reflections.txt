@@ -15,3 +15,7 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 - The history of the two branches is combined. Because the parental relations of the different versions in the two branches remain the same.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- Pro: no time consuming comparisons; not so error prone, of the differences are clear
+- Con: It may happen, that a "clear" situation for git isn't at all... => wrong merge
