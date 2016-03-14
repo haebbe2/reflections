@@ -3,3 +3,6 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 - If I am currently changing a file that is changed in the repository manual merges may be often necessary; no control, what version I want to have on my system
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- Being able to easily compare the versions without net access?
